@@ -1,0 +1,13 @@
+vimconfig
+
+My personal, portable vim configuration.
+Inspired by the plugin synchronizing screencast at vimcasts.org
+(http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
+
+---
+
+Installation
+
+---
+
+I hope to have some form of automated installation at some point. for now, copy the .vim/ directory, .vimrc and .gvimrc to the home directory,
