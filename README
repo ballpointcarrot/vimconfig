@@ -10,4 +10,4 @@ Installation
 
 ---
 
-I hope to have some form of automated installation at some point. for now, copy the .vim/ directory, .vimrc and .gvimrc to the home directory,
+I hope to have some form of automated installation at some point. for now, copy the .vim/ directory, .vimrc and .gvimrc to the home directory, Create a colors directory within .vim, and move tir_black.vim into the .vim/colors directory.
