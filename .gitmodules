@@ -4,3 +4,6 @@
 [submodule "plugins/vim-rails"]
 	path = plugins/vim-rails
 	url = http://github.com/tpope/vim-rails.git
+[submodule "plugins/supertab"]
+	path = plugins/supertab
+	url = https://github.com/ervandew/supertab.git
