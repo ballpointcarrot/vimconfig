@@ -10,4 +10,5 @@ Installation
 
 ---
 
-I hope to have some form of automated installation at some point. for now, copy the .vim/ directory, .vimrc and .gvimrc to the home directory, Create a colors directory within .vim, and move tir_black.vim into the .vim/colors directory.
+I hope to have some form of automated installation at some point. 
+For now, copy colors/ folder to the ~/.vim/ directory, .vimrc and .gvimrc to the ~/ directory. Any plugins should be cloned as necessary (via git submodule update), and installed by either copying the plugin's script to the ~/.vim/plugin/ folder, or running the associated makefile/rakefile.
