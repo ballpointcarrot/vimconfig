@@ -10,3 +10,6 @@
 [submodule "plugins/supertab"]
 	path = plugins/supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule "plugins/minibufexpl"]
+	path = plugins/minibufexpl
+	url = https://github.com/fholgado/minibufexpl.vim.git

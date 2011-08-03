@@ -37,7 +37,9 @@ set ruler
 set showcmd "show command onscreen
 set hidden "change buffers without saving
 set foldenable "allow code folding
+set foldmethod=syntax
 set showmatch "show matching brackets
+
 " Alias for NERDTree plugin.
 ab NT NERDTreeToggle
 

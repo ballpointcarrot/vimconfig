@@ -3,8 +3,8 @@
 " Christopher Kruse <kruse.christopher@gmail.com>
 
 " Fonts and Colors
-set guifont=Inconsolata\ 12
-colorscheme tir_black
+set guifont=Inconsolata:h12
+colorscheme wombat
 
 " GUI Options
 set guioptions-=T
