@@ -1,4 +1,4 @@
-[user]
+[ser]
 	name = Christopher Kruse
 	email = kruse.christopher@gmail.com
 [color]
@@ -16,4 +16,5 @@
 	br = branch
 	hist = log --pretty=format:\"%Cgreen%h%Creset %ad | %s%d %Cblue[%an]%Creset \" --graph --date=short
 	type = cat-file -t
-	dump = cat-file -p
+  dump = cat-file -p
+  unstage = reset HEAD --
